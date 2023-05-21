@@ -1,0 +1,8 @@
+en:
+  messages:
+    success:
+      logout: 'Logout successfully!'
+      like: 'Video liked successfully!'
+      unlike: 'Video unliked successfully!'
+      dislike: 'Video disliked successfully!'
+      undislike: 'Video undisliked successfully!'
